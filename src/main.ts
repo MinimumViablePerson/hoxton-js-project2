@@ -10,6 +10,10 @@ function render() {
 
   let titleEl2 = document.createElement('h1')
   titleEl.textContent = 'nah fam?'
+  // please dont hate me
+  // i will be good
+  // ill bring cookies
+
   appEl.append(titleEl, titleEl2)
 }
 
